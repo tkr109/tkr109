@@ -27,7 +27,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkr109&langs_count=8&theme=gotham&layout=compact" alt="tkr109" width = "42%"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=tkr109&theme=gotham&hide_border=false" width = "50%">
     <img src="https://github-readme-stats.vercel.app/api?username=tkr109&show_icons=true&theme=gotham" alt="JhndaCoder" width = 65%/>
-<h3 align="left">Dev Meme :</h3>
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"></img> <br>
+<h3 align="left">Dev Quote:</h3>
+<img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></img> <br> <br>
   <p align = "center"> Hope you enjoyed going through my profile 😌<br>
 How about following me 🥺</p>
