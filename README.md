@@ -13,6 +13,8 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **anything, I am happy to help;**
+  
+ - ⚡ Fun fact **I use tabs over spaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
