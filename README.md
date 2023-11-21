@@ -28,7 +28,7 @@
 <h3 align="left">Github Stats:</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkr109&langs_count=8&theme=gotham&layout=compact" alt="tkr109" width = "42%"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=tkr109&theme=gotham&hide_border=false" width = "50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=tkr109&show_icons=true&theme=gotham" alt="" width = 65%/>
+    <img src="[https://github-readme-stats.vercel.app/api?username=tkr109&show_icons=true&theme=gotham](https://camo.githubusercontent.com/b4bbe4d13c38fb2eb86124ab8bbffca1161e6fa5e90ca04f55c68ed11dd0dd93/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746b723130392673686f775f69636f6e733d74727565267468656d653d676f7468616d)" alt="" width = 65%/>
 <h3 align="left">Dev Quote:</h3>
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></img> <br> <br>
   <p align = "center"> Hope you enjoyed going through my profile 😌<br>
