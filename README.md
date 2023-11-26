@@ -1,3 +1,5 @@
+Hii
+<!-- 
 <h1 align="center">Hi 👋, I'm Aryan Thakur</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -34,4 +36,4 @@
   <p align = "center"> Hope you enjoyed going through my profile 😌<br>
 How about following me 🥺</p>
 
-
+-->
